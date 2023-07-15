@@ -1,2 +1,2 @@
+![BeRDC](https://github.com/BeRDC/.github/blob/main/profile/berdcmoc.png)
 
-This the BeDC's Offical Repo
