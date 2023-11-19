@@ -8,8 +8,6 @@ BeRDC2 represents the enhanced version of its predecessor, BeRDC1, which is curr
 
 ![BeRDC](https://github.com/BeRDC/.github/blob/main/profile/berdcmoc.png)
 
-<br>
-
 ## Technologies Used
 
 BeRDC2 leverages the following technologies to create a powerful and dynamic application:
@@ -53,6 +51,14 @@ BeRDC2 supports various roles, including:
 
 # Some screenshots
 
-<br>
+## Home
 
 ![BeRDC](https://github.com/BeRDC/.github/blob/main/profile/berdcteaser3.png)
+
+## Messaging Section
+
+![BeRDC](https://github.com/BeRDC/.github/blob/main/profile/messaging1.png)
+
+<br>
+
+![BeRDC](https://github.com/BeRDC/.github/blob/main/profile/messaging2.png)
