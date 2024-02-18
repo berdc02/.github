@@ -2,11 +2,11 @@
 
 Welcome to BeRDC2, a robust travel deals sharing platform designed to provide a seamless experience for users and administrators alike. This platform is crafted with modern technologies to ensure efficiency, responsiveness, and an array of features for travel deal management.
 
-BeRDC2 represents the enhanced version of its predecessor, BeRDC1, which is currently live at [http://boursesdetudesrdc.com](http://boursesdetudesrdc.com). **Both BeRDC1 and BeRDC2 are labor of love 💙 and patience :relieved: by [@judy-nkwama](https://github.com/judy-nkwama):technologist:.**
+BeRDC2 represents the enhanced version of its predecessor, BeRDC1, which is currently live at [http://boursesdetudesrdc.com](http://berdc.net). **Both BeRDC1 and BeRDC2 are labor of love 💙 and patience :relieved: by [@junkwama](https://github.com/junkwama):technologist:.**
 
 <br>
 
-![BeRDC](https://github.com/BeRDC/.github/blob/main/profile/berdcmoc.png)
+![BeRDC](https://github.com/berdc02/.github/blob/main/profile/berdcmoc.png)
 
 ## Technologies Used
 
@@ -53,12 +53,12 @@ BeRDC2 supports various roles, including:
 
 ## Home
 
-![BeRDC](https://github.com/BeRDC/.github/blob/main/profile/berdcteaser3.png)
+![BeRDC](https://github.com/berdc02/.github/blob/main/profile/berdcteaser3.png)
 
 ## Messaging Section
 
-![BeRDC](https://github.com/BeRDC/.github/blob/main/profile/messaging1.png)
+![BeRDC](https://github.com/berdc02/.github/blob/main/profile/messaging1.png)
 
 <br>
 
-![BeRDC](https://github.com/BeRDC/.github/blob/main/profile/messaging2.png)
+![BeRDC](https://github.com/berdc02/.github/blob/main/profile/messaging2.png)
